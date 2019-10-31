@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string-array name="preguntas">
+        <item>Ha llegado el hombre a la luna?</item>
+        <item>2+2=3</item>
+        <item>Pedro + Maria = Eustaquio</item>
+        <item>Neil deGraise Tayson es negro?</item>
+        <item>Las nubes son pedos de Dios?</item>
+        <item>Doreamon cumple con los canones de belleza de un pueblo de hobbits?</item>
+    </string-array>
+    <string-array name="respuestas">
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+    </string-array>
+</resources>
